@@ -14,13 +14,13 @@ try:
 except Exception:
     posted_pic_list = []
 
-timeout = 24 * 60 * 60  # pics will be posted every 24 hours
+timeout = 1 * 60 * 5  # pics will be posted every 24 hours
 
 bot = Bot()
 bot.login()
 
 while True:
-    folder_path = "./pics"
+    folder_path = "C:\\Users\\jshakely\\source\\repos\\instabot-master\\examples\\autopost\\pics\\"
     pics = glob.glob(folder_path + "/*.jpg")
     pics = sorted(pics)
     try:
@@ -56,4 +56,4 @@ while True:
 
     except Exception as e:
         print(str(e))
-    time.sleep(60)
+    time.sleep(5)
