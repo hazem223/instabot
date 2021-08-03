@@ -115,6 +115,8 @@ nohup.out
 .vscode
 state/
 
+config/
+
 # Settings files
 *.txt
 *.checkpoint
@@ -129,6 +131,7 @@ lkusrs.py
 
 /mypython 
 mypython/
+/mypython/Scripts/
 
 # personal
 linux-commands.sh 
