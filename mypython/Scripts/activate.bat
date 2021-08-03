@@ -1,6 +1,6 @@
 @echo off
 
-set "VIRTUAL_ENV=C:\Users\Joe Shakely\source\repos\instabot-master\mypython"
+set "VIRTUAL_ENV=C:\Users\jshakely\source\repos\instabot-master\mypython"
 
 if defined _OLD_VIRTUAL_PROMPT (
     set "PROMPT=%_OLD_VIRTUAL_PROMPT%"

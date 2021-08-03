@@ -28,7 +28,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"C:\Users\Joe Shakely\source\repos\instabot-master\mypython"
+$VIRTUAL_ENV = r"C:\Users\jshakely\source\repos\instabot-master\mypython"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]

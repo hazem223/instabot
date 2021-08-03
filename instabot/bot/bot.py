@@ -846,6 +846,12 @@ class Bot(object):
     def unfollow_users(self, user_ids):
         return unfollow_users(self, user_ids)
 
+    """
+        instabot example
+
+        Function:
+            1) unfollows users that don't follow you.
+    """
     def unfollow_non_followers(self, n_to_unfollows=None):
         return unfollow_non_followers(self, n_to_unfollows)
 
