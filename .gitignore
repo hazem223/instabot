@@ -117,6 +117,8 @@ state/
 
 config/
 
+mypython/
+
 # Settings files
 *.txt
 *.checkpoint
@@ -131,7 +133,7 @@ lkusrs.py
 
 /mypython 
 mypython/
-/mypython/Scripts/
+mypython/Scripts/*
 
 # personal
 linux-commands.sh 
