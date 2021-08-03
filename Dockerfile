@@ -7,6 +7,6 @@ RUN pip install pipenv
 RUN pipenv install
 COPY . .
 
-VOLUME /app/examples/autopost/pics/
+VOLUME /app/examples/
 
 CMD [ "pipenv", "run", "python", "examples/multi_script_CLI.py"]
