@@ -25,6 +25,8 @@ Right now the usage of this library (as probably others too) may harm your Insta
 Install `instabot` with:
 
 ``` bash
+python3 -m venv .venv
+source .venv/bin/activate
 pip install -U instabot
 ```
 
