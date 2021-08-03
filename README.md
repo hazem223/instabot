@@ -40,7 +40,7 @@ Instabot has a lot of predefined filters (like skipping very popular accounts be
 
 <div class="container-lg px-3 my-5 markdown-body">
 
-# [docs](https://instagrambot.github.io/docs/)
+# [docs](https://github.com/MessiDaGod/instabot-master/tree/master/docs/en/)
 
 # Instabot
 
