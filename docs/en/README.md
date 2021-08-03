@@ -37,7 +37,6 @@ Since the Instabot project is young and actively developing, updates will come o
 ``` python
 pip install -U instabot
 ```
-
 ## Developers
 
 Developers better read the [documentation](For_developers.md).
