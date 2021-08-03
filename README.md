@@ -6,7 +6,7 @@ We are the most used Instagram library on GitHub (according to "Used by" counter
 
 ## Important
 
-Right now the usage of this library (as probably others too) may harm your Instagram's profile because of new script-detection algorithms. You were warned.
+Right now the usage of this library (as probably others too) may harm your Instagram's profile because of new script-detection algorithms. You were warned (although to be honest I've been using it for years and have never had an issue, algorithms must not be that good 😉).
 
 ---
 
@@ -38,7 +38,6 @@ Instabot has a lot of predefined filters (like skipping very popular accounts be
 
 <img src="https://user-images.githubusercontent.com/5613295/62396777-b5ab8600-b57c-11e9-90a7-56b7294a9a6a.png" width="400">
 
-
 <div class="container-lg px-3 my-5 markdown-body">
 
 # [docs](https://instagrambot.github.io/docs/)
@@ -47,7 +46,7 @@ Instabot has a lot of predefined filters (like skipping very popular accounts be
 
 Cool Instagram scripts for promotion and API wrapper. Written in Python.
 
-![Instabot is better than other open-source bots!](../img/instabot_3_bots.png "Instabot is better than other open-source bots!")
+![Instabot is better than other open-source bots!](/img/instabot_3_bots.png)
 
 * * *
 
@@ -80,15 +79,9 @@ Read the instructions for use [here](/docs/en/How_to_use.html).
 
 Since the Instabot project is young and actively developing, updates will come out quite often. So if you stumble upon an error, do not rush to bang: try to update Instabot - maybe this error has already been corrected.
 
-<div class="language-python highlighter-rouge">
-
-<div class="highlight">
-
-    pip install -U instabot
-
-</div>
-
-</div>
+``` Python
+pip install -U instabot
+```
 
 ## Developers
 
